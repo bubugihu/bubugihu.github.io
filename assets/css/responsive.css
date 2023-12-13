@@ -20,9 +20,7 @@
 
 
 :root {
-    /*--thm-font: 'Poppins', sans-serif;*/
     --thm-font: 'Arial', sans-serif;
-    /*--thm-font: 'Tahoma', sans-serif;*/
     --thm-gray: #808080;
     --thm-black: #051320;
     --thm-black-rgb: 5, 19, 32;
@@ -4493,12 +4491,4 @@ select:focus {
     padding: 0 0px 30px;
 }
 
-/* Custom style */
-.owl-nav{
-    display: none !important;
-}
-
-.error-form{
-    display: none;
-}
 
